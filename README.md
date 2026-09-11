@@ -25,6 +25,24 @@ art, saves, or executables are included.
 - A fix for a Fallout 1 enemy-turn crash caused by an uninitialized optional
   target pointer.
 
+## Screenshots
+
+### Controller actions
+
+![Fallout-style controller Actions panel](docs/screenshots/controller-actions.png)
+
+### Controller and display settings
+
+![Controller settings with the borderless display option](docs/screenshots/borderless-settings.png)
+
+### Analogue movement and L3 cursor mode
+
+The left column shows direct analogue movement with the red movement marker
+hidden. The right column shows the marker restored after switching to cursor
+mode with L3.
+
+![Fallout 1 and Fallout 2 analogue movement and cursor-mode comparison](docs/screenshots/analogue-movement-and-cursor-mode.png)
+
 See each engine's `CONTROLLER.md` for the complete control reference:
 
 - [Fallout 1 controller guide](fallout1-ce/CONTROLLER.md)

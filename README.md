@@ -1,5 +1,7 @@
 # Fallout 1 & 2 Community Edition — Controller Edition
 
+![Fallout and Fallout 2 Controller Editions banner](docs/banner-youtube-thumbnail.png)
+
 This repository contains modified versions of
 [Fallout Community Edition](https://github.com/alexbatalov/fallout1-ce) and
 [Fallout 2 Community Edition](https://github.com/alexbatalov/fallout2-ce) with

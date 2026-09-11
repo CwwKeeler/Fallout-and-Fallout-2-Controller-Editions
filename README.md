@@ -8,6 +8,18 @@ native SDL controller support.
 You must own Fallout or Fallout 2 to play. No original game data, music, maps,
 art, saves, or executables are included.
 
+## Download and install
+
+Most players should download a prebuilt ZIP from the
+[latest release](https://github.com/CwwKeeler/Fallout-and-Fallout-2-Controller-Editions/releases/latest):
+
+- Choose `fallout1-ce-controller-windows-x64.zip` for Fallout 1.
+- Choose `fallout2-ce-controller-windows-x64.zip` for Fallout 2.
+
+You do not need to compile the source. Follow the step-by-step
+[Easy Windows installation guide](INSTALL-WINDOWS.md) to find your Steam or GOG
+game folder, copy the files, and start the Controller Edition.
+
 ## Features
 
 - Broad Xbox, PlayStation, Nintendo, Steam Input, 8BitDo, and generic controller

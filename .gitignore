@@ -1,0 +1,54 @@
+# Builds and generated files
+build/
+**/build/
+out/
+dist/
+artifacts/
+Testing/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.ninja
+*.obj
+*.o
+*.a
+*.lib
+*.dll
+*.exe
+*.pdb
+*.dSYM/
+
+# Original game data and user state — never commit these
+data/
+DATA/
+savegame/
+SAVEGAME/
+*.sav
+*.dat
+*.acm
+fallout.cfg
+fallout2.cfg
+f1_res.ini
+f2_res.ini
+ddraw.ini
+controller.ini
+
+# Test captures and local output
+*.bmp
+*.log
+camera-trace.csv
+motion-trace.csv
+camera-validation.json
+motion-validation.json
+
+# Local tooling and editor state
+tools/
+.vs/
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+

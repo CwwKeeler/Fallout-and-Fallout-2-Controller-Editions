@@ -1,0 +1,11 @@
+MODIFIED COMMUNITY EDITION - CONTROLLER SUPPORT
+
+This is a personal modified build of alexbatalov's Community Edition.
+Changes add native SDL controller input, continuous direct stick movement,
+smooth camera following and manual panning with input priority,
+borderless desktop fullscreen, Direct3D 11 on Windows,
+resize/device-loss recovery, configurable bindings, a custom
+Fallout-style panel and on-screen keyboard, integration tests, an SDL
+upgrade, a Fallout 1 enemy-target initialization fix, and Windows compiler compatibility fixes. See CONTROLLER.md.
+Original engine terms are in LICENSE.md; dependency terms are in licenses.
+This package does not include the original Fallout game assets.
